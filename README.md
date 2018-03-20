@@ -22,7 +22,6 @@
 * C
 * Java
 * Objective C
-* JavaScript
 * MATLAB
 * Autocad
 * HTML
