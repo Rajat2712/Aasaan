@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aasaan</string>
+    <string name="runtime_permissions_txt">Please enable ALL permissions from app settings.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Edit</string>
+    <string name="action_play_next">Delete</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+
+    <string name="graph_prompt">Select Graph</string>
+
+    <string-array name="graph_arrays">
+        <item>Today\'s power consumption</item>
+        <item>Household components consumption</item>
+        <item>Geyser Power Usage</item>
+    </string-array>
+</resources>
