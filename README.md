@@ -17,6 +17,10 @@
 * Timer and Notifications.
 * 15 day battery backup for an hour of charge.
 
+## How it works?
+
+![concept diagram 1](https://user-images.githubusercontent.com/20211622/37688786-b4170b0a-2cc7-11e8-9601-94410a3d74f3.png)
+
 ## Built With
 
 * C
